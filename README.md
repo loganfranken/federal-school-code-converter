@@ -4,6 +4,8 @@ A command line utility for pulling in the list of Federal School Codes from
 the [Federal Student Aid website](https://ifap.ed.gov/ifap/fedSchoolCodeList.jsp)
 and converting them into JSON.
 
+**This project is neither endorsed by nor affiliated with the Department of Education.**
+
 ## Usage
 
 Simply enter an academic year (format "1516") on the command line to print the
