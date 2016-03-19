@@ -1,0 +1,25 @@
+{
+  "name": "federal-school-code-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js > output.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganfranken/federal-school-code-converter.git"
+  },
+  "author": "Logan Franken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganfranken/federal-school-code-converter/issues"
+  },
+  "homepage": "https://github.com/loganfranken/federal-school-code-converter#readme",
+  "dependencies": {
+    "meow": "^3.7.0",
+    "node-xlsx": "^0.6.0",
+    "request": "^2.69.0"
+  }
+}
