@@ -1,5 +1,7 @@
 # Get Federal School Code JSON
 
+**This repository is no longer being maintained.**
+
 A command line utility for pulling in the list of Federal School Codes from
 the [Federal Student Aid website](https://ifap.ed.gov/ifap/fedSchoolCodeList.jsp)
 and converting them into JSON.
